@@ -61,11 +61,7 @@ A LangGraph-based chatbot that intelligently routes student queries and retrieve
 
 **Repository:** [Conditional RAG College Assistant](https://github.com/aniketjadhav25000/Conditional-RAG-College-Assistant-Chatbot)
 
-#### GPT-Powered AI Code Generator
 
-An AI-powered application that generates code based on user prompts.
-
-**Tech Stack:** React.js, FastAPI, OpenAI API.
 
 ---
 

@@ -17,7 +17,7 @@ I'm a Computer Science Engineering graduate focused on building intelligent appl
 - 🤖 Working with **Generative AI, LLMs, RAG, and Agentic AI**.
 - 🧠 Exploring **LangChain, LangGraph, AI Agents, and Multi-Agent Systems**.
 - 🔀 Building AI workflows using **Sequential, Parallel, Conditional, and Iterative patterns**.
-- 🐍 Strong hands-on experience with **Python, FastAPI, and REST APIs**.
+- 🐍 Hands-on experience with **Python, FastAPI, and REST APIs**.
 - 🐳 Working with **Docker, containerization, and multi-container applications**.
 - 🌐 Experienced in full-stack development using **React.js, Node.js, and databases**.
 - 📫 Reach me at: [**aniket.jadhav20703@gmail.com**](mailto\:aniket.jadhav20703@gmail.com)
@@ -99,4 +99,6 @@ An AI-powered application that generates code based on user prompts.
 
 ---
 
-\<p align="center">   \<b>Always learning, building, and exploring what's next in AI.\</b> \</p>
+\<p align="center">
+&#x20; \<b>Always learning, building, and exploring what's next in AI.\</b>
+\</p>

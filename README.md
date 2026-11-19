@@ -10,7 +10,7 @@
 
 <!-- ================= TYPING ANIMATION ================= -->
 
-<p align="center">
+<p align="center style="margin-top: 0; margin-bottom: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=35&lines=Building+AI-Powered+Applications;Exploring+Agentic+AI+%26+LLMs;Developing+Multi-Agent+Systems;Turning+Ideas+Into+Working+Projects" alt="Typing Animation"/>
 </p>
 

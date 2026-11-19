@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Aniket Jadhav</h1>
 <h3 align="center">Aspiring AI Engineer | Generative AI | Agentic AI | Full Stack Developer</h3>
 

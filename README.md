@@ -1,42 +1,54 @@
-<!-- Animated Header Background -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Aniket%20Jadhav&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header Banner"/>
-</p>
+<!-- ===================== HEADER ===================== -->
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Exploring+Agentic+AI+%26+LLMs;Developing+Full+Stack+Solutions;Turning+Ideas+Into+Working+Projects" alt="Typing Animation"/>
-</p>
+<div align="center">
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://github.com/aniketjadhav25000">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aniket-jadhav-a72466236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-ani-react.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:aniket.jadhav20703@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:243B55,100:36BCF7&height=165&section=header&text=ANIKET%20JADHAV&fontSize=48&fontColor=ffffff&fontAlignY=43&desc=Aspiring%20AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&descSize=16&descAlignY=70&animation=fadeIn" width="100%" />
+
+<h3>Building Intelligent Applications with AI & Modern Technologies</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Agentic+AI+%26+LLMs;Building+Multi-Agent+AI+Systems;Developing+Full-Stack+Applications;Learning+Something+New+Every+Day" />
+
+</div>
+
+<!-- ===================== PROFILE LINKS ===================== -->
+
+<div align="center">
+
+<a href="https://github.com/aniketjadhav25000">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aniket-jadhav-a72466236/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/user1222cx/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://portfolio-ani-react.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:aniket.jadhav20703@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
+
+<!-- ===================== ABOUT ME ===================== -->
 
 ## About Me
 
-I'm a developer focused on building practical applications using Generative AI, Agentic AI, and full-stack technologies.
+I'm a developer focused on building practical solutions using **Generative AI, Agentic AI, and Full-Stack Development**.
 
-- Exploring LLMs, RAG architectures, and Agentic AI.
-- Building AI applications using LangChain and LangGraph.
-- Interested in multi-agent systems and workflow orchestration.
-- Developing full-stack applications using React and FastAPI.
+- Exploring **LLMs, RAG architectures, and Agentic AI** to build intelligent applications.
+- Working with **LangChain, LangGraph, and Multi-Agent Systems** to create AI-powered workflows.
+- Developing full-stack applications using **React.js, FastAPI, and modern web technologies**.
+- Interested in AI automation, workflow orchestration, and solving real-world problems.
 - Continuously learning and experimenting with emerging technologies.
 
 ---
+
+<!-- ===================== PROJECTS ===================== -->
 
 ## Featured Projects
 
@@ -44,49 +56,72 @@ I'm a developer focused on building practical applications using Generative AI, 
 <tr>
 <td width="50%" valign="top">
 
-### PostCraft – Multi-Agent LinkedIn Content Generator
+<h3 align="center">PostCraft</h3>
 
-A multi-agent AI system built with LangGraph to generate, review, and refine LinkedIn posts through coordinated Writer and Reviewer agents.
+<p align="center">
+<strong>Multi-Agent LinkedIn Content Generator</strong>
+</p>
 
-**Key Features**
+<p>
+An AI-powered application built using LangGraph that generates, reviews, and refines LinkedIn posts through Writer and Reviewer agents.
+</p>
+
+<strong>Key Features</strong>
+
 - Multi-agent orchestration.
-- Conditional routing.
+- Conditional workflow routing.
 - Iterative content refinement.
 - Web search integration.
 - Full-stack application.
 
-**Tech Stack**
+<strong>Technologies</strong>
 
-Python · LangGraph · LangChain · FastAPI · React · Gemini · Groq · Docker
+<p>
+<img src="https://skillicons.dev/icons?i=python,react,fastapi,docker" />
+</p>
+
+`LangGraph` `LangChain` `Groq` `Gemini`
 
 <p align="center">
-  <a href="https://github.com/aniketjadhav25000/LinkedIn_Post_Generator_Iterative_workflow">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/aniketjadhav25000/LinkedIn_Post_Generator_Iterative_workflow">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Conditional RAG College Assistant
+<h3 align="center">Conditional RAG College Assistant</h3>
 
+<p align="center">
+<strong>Document-Based AI Chatbot</strong>
+</p>
+
+<p>
 A Conditional RAG chatbot that routes student queries into academic, fee-related, or general categories and retrieves relevant information from college documents.
+</p>
 
-**Key Features**
+<strong>Key Features</strong>
+
 - Query classification and routing.
 - Conditional workflow using LangGraph.
 - Document processing and chunking.
 - Semantic retrieval using FAISS.
 - LLM-based response generation.
 
-**Tech Stack**
+<strong>Technologies</strong>
 
-Python · LangGraph · LangChain · RAG · FAISS · Hugging Face · Groq
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`LangGraph` `LangChain` `RAG` `FAISS` `Hugging Face` `Groq`
 
 <p align="center">
-  <a href="https://github.com/aniketjadhav25000/Conditional-RAG-College-Assistant-Chatbot">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/aniketjadhav25000/Conditional-RAG-College-Assistant-Chatbot">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 </td>
@@ -95,12 +130,14 @@ Python · LangGraph · LangChain · RAG · FAISS · Hugging Face · Groq
 
 ---
 
+<!-- ===================== TECHNICAL SKILLS ===================== -->
+
 ## Technical Skills
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp" />
 </p>
 
 `Python` · `Java` · `JavaScript` · `TypeScript` · `C++`
@@ -108,7 +145,7 @@ Python · LangGraph · LangChain · RAG · FAISS · Hugging Face · Groq
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind" />
 </p>
 
 `React.js` · `Next.js` · `Angular` · `HTML5` · `CSS3` · `Tailwind CSS`
@@ -116,7 +153,7 @@ Python · LangGraph · LangChain · RAG · FAISS · Hugging Face · Groq
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
 `FastAPI` · `Node.js` · `Express.js` · `REST APIs`
@@ -124,18 +161,18 @@ Python · LangGraph · LangChain · RAG · FAISS · Hugging Face · Groq
 ### Generative AI & LLMs
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
 </p>
 
-`Generative AI` · `Large Language Models` · `Prompt Engineering` · `OpenAI API` · `Google Gemini` · `Groq`
+`Generative AI` · `LLMs` · `Prompt Engineering` · `OpenAI API` · `Google Gemini` · `Groq`
 
 ### Agentic AI & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-2B6CB0?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2B6CB0?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
 `LangChain` · `LangGraph` · `Multi-Agent Systems` · `Tool Calling` · `Workflow Orchestration` · `Conditional Routing` · `Sequential Workflows` · `Parallel Workflows` · `Iterative Workflows`
@@ -143,16 +180,16 @@ Python · LangGraph · LangChain · RAG · FAISS · Hugging Face · Groq
 ### RAG & Vector Databases
 
 <p>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-`Retrieval-Augmented Generation (RAG)` · `FAISS` · `Hugging Face Embeddings` · `Semantic Search` · `Document Processing` · `Text Chunking`
+`Retrieval-Augmented Generation` · `FAISS` · `Hugging Face Embeddings` · `Semantic Search` · `Document Processing` · `Text Chunking`
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
 </p>
 
 `MongoDB` · `PostgreSQL` · `MySQL` · `Firebase`
@@ -160,9 +197,9 @@ Python · LangGraph · LangChain · RAG · FAISS · Hugging Face · Groq
 ### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github" alt="Cloud and DevOps"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 `Docker` · `Docker Compose` · `AWS` · `Git` · `GitHub` · `Render` · `Netlify`
@@ -170,15 +207,17 @@ Python · LangGraph · LangChain · RAG · FAISS · Hugging Face · Groq
 ### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" alt="Developer Tools"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 </p>
 
 `VS Code` · `Postman` · `Figma` · `Cursor` · `Claude` · `GitHub Copilot` · `ChatGPT`
 
 ---
+
+<!-- ===================== CERTIFICATIONS ===================== -->
 
 ## Certifications
 
@@ -189,26 +228,35 @@ Python · LangGraph · LangChain · RAG · FAISS · Hugging Face · Groq
 
 ---
 
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
 ## Achievements
 
-- Solved 400+ Data Structures and Algorithms problems across coding platforms.
+- Solved **400+ DSA problems** across coding platforms.
 - Built projects using modern Generative AI and Agentic AI technologies.
 - Developed full-stack applications integrating AI models and APIs.
 
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
+
 ## GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aniketjadhav25000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketjadhav25000&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketjadhav25000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aniketjadhav25000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketjadhav25000&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketjadhav25000&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
+
+<!-- ===================== CURRENTLY EXPLORING ===================== -->
 
 ## Currently Exploring
 
@@ -220,10 +268,14 @@ Python · LangGraph · LangChain · RAG · FAISS · Hugging Face · Groq
 
 ---
 
-<p align="center">
-  <b>Building, Learning, and Experimenting with AI.</b>
-</p>
+<!-- ===================== FOOTER ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Footer"/>
-</p>
+<div align="center">
+
+<h3>Building. Learning. Experimenting.</h3>
+
+<p>Always exploring new technologies and turning ideas into practical solutions.</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:36BCF7&height=110&section=footer" width="100%"/>
+
+</div>

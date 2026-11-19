@@ -35,7 +35,7 @@ I'm a Computer Science Engineering graduate focused on building intelligent appl
 
 ### Featured Projects
 
-#### PostCraft – AI-Powered LinkedIn Post Generator
+#### 1. PostCraft – AI-Powered LinkedIn Post Generator
 
 A multi-agent AI application that automates LinkedIn content generation and refinement.
 
@@ -47,7 +47,7 @@ A multi-agent AI application that automates LinkedIn content generation and refi
 
 **Tech Stack:** Python, LangGraph, FastAPI, React.js, Google Gemini, Groq, Tavily, Docker.
 
-#### Conditional RAG College Assistant
+#### 2. Conditional RAG College Assistant
 
 A LangGraph-based chatbot that intelligently routes student queries and retrieves relevant information from college documents.
 

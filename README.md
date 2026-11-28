@@ -26,7 +26,7 @@
   <a href="https://leetcode.com/u/user1222cx/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://portfolio-ani-react.netlify.app/">
+  <a href="[https://portfolio-ani-react.netlify.app/](https://portfolio-v2-eight-chi-94.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:aniket.jadhav20703@gmail.com">
